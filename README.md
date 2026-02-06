@@ -1,4 +1,4 @@
-# Cardio Care - AI-Powered Heart Health Risk Prediction**
+# Cardio Care - AI-Powered Heart Health Risk Prediction
 - **Environment Variable Protection** - Secure credential management with dotenv
 - **Data Privacy Protection** - Real-time processing with no personal data storage
 - **Anonymous Assessments** - No personally identification API Endpoints
@@ -453,5 +453,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Design inspiration from modern healthcare applications
 
 ---
+
 
 **Built with ❤️ for better heart health**
